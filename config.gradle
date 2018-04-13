@@ -1,0 +1,18 @@
+ext {
+
+    android = [
+            compileSdkVersion: 26,
+            buildToolsVersion: "23.0.2",
+
+            minSdkVer        : 15,
+            targetSdkVer     : 26,
+    ]
+
+
+
+
+    dependencies = [
+
+    ]
+}
+
